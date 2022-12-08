@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "506762309757",
+    "project_id": "wit-sub",
+    "storage_bucket": "wit-sub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506762309757:android:3f0ba8f45efdd768a70114",
+        "android_client_info": {
+          "package_name": "com.example.wit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506762309757-q8f5ur7me2f7phb6al87t540esj4mcio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvzm4c7bXHvd-WlZMxyj4j2bS2V6aFN8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506762309757-q8f5ur7me2f7phb6al87t540esj4mcio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
